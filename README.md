@@ -1,15 +1,4 @@
 
-Himanshu Vashistha
-
-These factor are used in above python code related . make a readme file for GitHub.
-
-I'm sorry, but I'm not sure what you are referring to as "these factors". Can you please provide me with more information so I can assist you better in creating a README file for your GitHub project?
-
-Himanshu Vashistha
-
-Write a Python function that takes in a list of numbers and returns the sum of the squares of all the numbers in the list.make readme file for GitHub.
-
-Certainly! Here is a sample template for a README file that you can use for your GitHub project:
 
 Sum of Squares Function
 
