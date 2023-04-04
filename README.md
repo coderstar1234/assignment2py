@@ -16,7 +16,7 @@ License
 - To use the sum_squares function, simply pass in a list of numbers as an argument. 
 - The function will return the sum of the squares of all the numbers in the list.
 
-python
+<p align="center"> python</p>
 
 Copy code
 
