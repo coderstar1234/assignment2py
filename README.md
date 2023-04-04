@@ -18,7 +18,8 @@ License
 
 <p align="center"> python</p>
 
-Copy code
+
+<h3 align=" center" >Copy code✏️</h3>
 
 from sum_squares import sum_squares
 
