@@ -34,7 +34,7 @@ print(result)  # Output: 55 (1^2 + 2^2 + 3^2 + 4^2 + 5^2 = 55)
 - Contributions to this project are welcome.
 -  To contribute, please fork this repository and submit a pull request.
 
-<h1 align="center">License:-</h1>
+<h1 align="center">License📙:-</h1>
 
 - This project is licensed under the MIT License - see the LICENSE file for details.
 
