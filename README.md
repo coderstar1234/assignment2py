@@ -5,7 +5,7 @@
 License📙
 
 - This project contains a Python function that takes in a list of numbers and returns the sum of the squares of all the numbers in the list.
-
+<hr>
 <h1 align="center">Installation🔧:-</h1>
 
 - To use this function, you will need to have Python installed on your computer.
