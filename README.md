@@ -29,7 +29,7 @@ result = sum_squares(my_list)
 
 print(result)  # Output: 55 (1^2 + 2^2 + 3^2 + 4^2 + 5^2 = 55)
 
-<h1 align="center">Contributing:-</h1>
+<h1 align="center">Contributing👫:-</h1>
 
 - Contributions to this project are welcome.
 -  To contribute, please fork this repository and submit a pull request.
