@@ -38,6 +38,6 @@ print(result)  # Output: 55 (1^2 + 2^2 + 3^2 + 4^2 + 5^2 = 55)
 
 - This project is licensed under the MIT License - see the LICENSE file for details.
 
-<h1 align="center">Acknowledgements:-</h1>
+<h1 align="center">Acknowledgements📱:-</h1>
 
 - This project was created as part of a programming exercise.
