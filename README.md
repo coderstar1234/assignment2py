@@ -11,7 +11,7 @@ License📙
 - To use this function, you will need to have Python installed on your computer.
 - No additional dependencies are required. Simply copy the code from the function provided into your Python project.
 
-<h1 align="center">Usage:-</h1>
+<h1 align="center">Usage🎭:-</h1>
 
 - To use the sum_squares function, simply pass in a list of numbers as an argument. 
 - The function will return the sum of the squares of all the numbers in the list.
