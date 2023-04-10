@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Sum of Squares Function:-</h1>
+<h1 align="center">Sum of Squares Function🧾:-</h1>
 
 License
 
